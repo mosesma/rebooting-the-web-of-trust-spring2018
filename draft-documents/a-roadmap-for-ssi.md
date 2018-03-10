@@ -22,21 +22,13 @@ the formation of a critical mass of end users.
 Goals
 -----
 
--   Outline a better approach for communicating a crisp, cohesive and
-    > comprehensive vision of the core benefits of SSI.
+-   Outline a better approach for communicating a crisp, cohesive and comprehensive vision of the core benefits of SSI.
 
--   Justify the importance of streamlining the developer experience
-    > through tools that improve time to value and assist in the
-    > development of compelling applications.
+-   Justify the importance of streamlining the developer experience through tools that improve time to value and assist in the development of compelling applications.
 
--   Shift the focus from longer term ad-hoc brainstorming towards a
-    > formal initiative to develop a set of minimum viable reference
-    > applications.
+-   Shift the focus from longer term ad-hoc brainstorming towards a formal initiative to develop a set of minimum viable reference applications.
 
--   Help find the WOW (the balance between low hanging fruit scenarios
-    > and instantly graspable killer app features) that inspires hope
-    > and stimulates media interest and viral propagation so that we can
-    > win the hearts and minds of a critical mass of stakeholders.
+-   Help find the WOW (the balance between low hanging fruit scenarios and instantly graspable killer app features) that inspires hope and stimulates media interest and viral propagation so that we can win the hearts and minds of a critical mass of stakeholders.
 
 Audience
 --------
@@ -59,13 +51,11 @@ end exemplars.
 Specifically, this paper is targeted at the early adopters within a
 minimal viable community of stakeholders:
 
--   Incubation thought leaders at ground zero that are passionate about
-    > bringing Self-Sovereign Identity (SSI) to maturity.
+-   Incubation thought leaders at ground zero that are passionate about bringing Self-Sovereign Identity (SSI) to maturity.
 
 -   Participants in open standards organizations
 
--   Participants working on open source code based on those open
-    > standards
+-   Participants working on open source code based on those open standards
 
 -   Early adopters within the developer community
 
@@ -81,55 +71,34 @@ Success Metrics
 Crystallization of common community initiatives that are measurable via
 Key Performance Indicators which include:
 
--   The community goal is to see one million DIDs published by March
-    > 2019
+-   The community goal is to see one million DIDs published by March 2019
 
--   The release of a handful of reference applications that provide a
-    > down payment on the promise of decentralized identity
+-   The release of a handful of reference applications that provide a down payment on the promise of decentralized identity
 
--   Formalized plans by year end 2018 for the foundational SSI
-    > specifications
-
-    -   W3C DID
-
-    -   W3C VC
-
-    -   Oasis DKMS
+-   Formalized plans by year end 2018 for the foundational SSI specifications
+    >   W3C DID
+    >   W3C VC
+    >   Oasis DKMS
 
 -   Go to Market Resources to support developers by year end 2018
 
-    -   Glossary of Terms
-
+    >   Glossary of Terms
         -   SSI v. Self-Administered Identity
-
-    -   Convergence of technical primers (tutorials) into a central
-        > getting started kit
-
-    -   Common baseline talking points for SSI advocates
-
-    -   High impact videos
-
-    -   Portfolio of industry specific demonstrations
-
-    -   RWOT demo recordings
+    >   Convergence of technical primers (tutorials) into a central getting started kit
+    >   Common baseline talking points for SSI advocates
+    >   High impact videos
+    >   Portfolio of industry specific demonstrations
+    >   RWOT demo recordings
 
 -   Foundational catalysts for adoption
 
-    -   Creation of a realistic technology roadmap
-
-    -   Adoption of a formal agile project management approach to drive
-        > the roadmap
-
-    -   Recruitment of foundational partners for a social media platform
-
-        -   Operational recruitment of key technologists from Slack,
-            > Telegram and RocketChat
-
-        -   Ideological recruitment of influential leaders (i.e: Reid
-            > Hoffman, Fred Wilson, etc)
-
-        -   Get some traction on meaningful support from GitHub and
-            > Wikipedia
+    >   Creation of a realistic technology roadmap
+    >   Adoption of a formal agile project management approach to drive
+        - the roadmap
+    >   Recruitment of foundational partners for a social media platform
+        -   Operational recruitment of key technologists from Slack, Telegram and RocketChat
+        -   Ideological recruitment of influential leaders (i.e: Reid Hoffman, Fred Wilson, etc)
+        -   Get some traction on meaningful support from GitHub and Wikipedia
 
 Reality Check
 
@@ -159,10 +128,8 @@ community That is actually
 -   We need to hide the complexity for usage
 
 -   We need to solve the Wallet distribution problem
-
-    -   Who are the wallet makers
-
-    -   Need secure wallets - http://www.links.org/files/nspw36.pdf
+    >   Who are the wallet makers
+    >   Need secure wallets - http://www.links.org/files/nspw36.pdf
 
 Myths to debunk
 
@@ -248,43 +215,29 @@ results.
 The volunteers who have bravely committed to join this tribe are:
 
 -   Co-chairs
-
-    -   Dan: gisolfi@us.ibm.com
-
-    -   Moses Ma: moses.ma@futurelabconsulting.com
-
-    -   ???
+    >   Dan Gisolfi
+    >   Moses Ma
+    >   ???
 
 -   Scrummaster:
-
-    -   Darrell Duane, [*d@duane.com*](mailto:d@duane.com)
+    >   Darrell Duane
 
 -   The communications workgroup:
-
-    -   Kate Sills:
-        > [*katelynsills@gmail.com*](mailto:katelynsills@gmail.com)
-
-    -   Sean Bohan: (via Drummond)
-
-    -   Kaliya Young: Kaliya@identitywomen.net
+    >   Kate Sills:
+    >   Sean Bohan: (via Drummond)
+    >   Kaliya Young: Kaliya@identitywomen.net
 
 -   GTM resource developers:
-
-    -   Alex Preukschat: (via Drummond)
-
-    -   Remy Lyon: remy@keemail.me
+    >   Alex Preukschat: (via Drummond)
+    >   Remy Lyon
 
 -   Domain leaders:
-
-    -   David Crocker, Standards
-
-    -   Nathan George: (via Drummond)
-
-    -   Input from Manu, Drummond, ???
+    >   David Crocker, Standards
+    >   Nathan George: (via Drummond)
+    >   Input from Manu, Drummond, ???
 
 -   Interested Resources
-
-    -   Vishal Diro: [*vishal@diro.io*](mailto:vishal@diro.io)
+    >   Vishal Diro
 
 Manifesting some WOWs
 
@@ -331,16 +284,12 @@ Deliverables
 -   Action Tracking for the Roadmap Tribe on Trello
 
 -   Roadmap:
-
-    -   Project Team
-
-    -   Published Plan/Schedule
+    >   Project Team
+    >   Published Plan/Schedule
 
 -   MythBusters:
-
-    -   FAQ Sheet
-
-    -   A call for terminology (Glossary)
+    >   FAQ Sheet
+    >   A call for terminology (Glossary)
 
 -   WOW Factor: Community Badges Toolkit
 
